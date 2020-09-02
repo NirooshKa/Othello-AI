@@ -1,5 +1,6 @@
 # Othello-AI
 I made the following types of AI to play the game of Othello:
+
 (1) Alpha-Beta 
 (2) Enhanced Heuristic, UCB and Reinforcement Learning Monte Carlo AI (MCTS) 
 
