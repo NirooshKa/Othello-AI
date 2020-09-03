@@ -7,7 +7,7 @@ I made the following types of AI to play the game of Othello:
 
 **Both the Alpha-Beta and Enhanced MCTS use a similar heuristic.**
 
-I Got 4th place (tied) for the first round, and a runner up for the 2nd round using my MCTS implementation for this competition. I have also provided possible improvements that I am going to work on in the future: https://www.teach.cs.toronto.edu//~csc384h/summer/othello_results.html (name is kammulaa). 
+I Got 4th place (tied) for the first round, and a runner up for the 2nd round using my MCTS implementation for this competition. I have also provided possible improvements that I am going to work on in the future in the following link: https://www.teach.cs.toronto.edu//~csc384h/summer/othello_results.html (name is kammulaa). 
 
 First round rankings: https://www.teach.cs.toronto.edu//~csc384h/summer/Othello/FirstRound.pdf (name is kammulaa).
 
